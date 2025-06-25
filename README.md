@@ -1,5 +1,5 @@
 <h1>JetWork freelance marketplace</h1>
-<h3>This is a carbon copy of google playstore</h3>
+<h3>This is a website like of upwork</h3>
 <p>Visitors can download their desired apps and post reviews as well. An app developer can add their apps to this website.</p>
 
 <img src="https://i.postimg.cc/tgp9xMfk/up.png" width="800px" height="700px"/>
