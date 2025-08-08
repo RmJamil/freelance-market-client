@@ -1,8 +1,10 @@
 <h1>JetWork freelance marketplace</h1>
 <h3>This is a website like upwork</h3>
+<h3>Project Overview :</h3>
 <p>website where visitors can hire a freelauncer and freelauncers can add their profile to be hired.</p>
-
+<hr/>
 <img src="https://i.postimg.cc/tgp9xMfk/up.png" width="800px" height="700px"/>
+<hr/>
 <h2>Main Technologies</h2>
 <ol>
   <li>React</li>
