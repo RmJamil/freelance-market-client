@@ -1,6 +1,6 @@
 <h1>JetWork freelance marketplace</h1>
 <h3>This is a website like upwork</h3>
-<p>Visitors can download their desired apps and post reviews as well. An app developer can add their apps to this website.</p>
+<p>website where visitors can hire a freelauncer and freelauncers can add their profile to be hired.</p>
 
 <img src="https://i.postimg.cc/tgp9xMfk/up.png" width="800px" height="700px"/>
 <h2>Main Technologies</h2>
